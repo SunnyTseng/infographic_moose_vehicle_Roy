@@ -6,7 +6,7 @@
 The paper is entitled "The effectiveness of decommissioning roadside mineral licks on reducing moose activity near highways: implications for moose-vehicle collisions". The goal of this project is to create an infographic to summarize the findings and ideas of this paper. 
 
 - [Article](/docs/paper.pdf)
-- [Research Outline](/docs/communication.md)
+- [Research Outline](/docs/communications.md)
 
 
 ## Time line
