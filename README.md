@@ -10,6 +10,11 @@ The paper is entitled "The effectiveness of decommissioning roadside mineral lic
 
 ## Product
 
+### version 3 (2024.01.21)
+Different format of this version can be downloaded with [JPG](./docs/moose_vehicle_collision_v3.jpg), [PNG](/docs/moose_vehicle_collision_v3.png), or [PDF for large size print](./docs/moose_vehicle_collision_v3.pdf)
+
+![](./docs/moose_vehicle_collision_v3.jpg)
+
 ### version 2 (2024.01.19)
 Different format of this version can be downloaded with [JPG](./docs/moose_vehicle_collision_v2.jpg), [PNG](/docs/moose_vehicle_collision_v2.png), or [PDF](./docs/moose_vehicle_collision_v2.pdf)
 
